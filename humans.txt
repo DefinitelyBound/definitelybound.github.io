@@ -3,14 +3,15 @@
 
 # TEAM
 
-    Owners -- owning
-    Collaborator -- collaborating
+    Geoffrey Huntley <ghuntley@ghuntley.com> https://ghuntley.com/
+    Daume Dennis <daume.dennis@gmail.com> http://flagbug.com/
 
 # THANKS
 
-    Contributors -- contributing
-    Users -- using
-
+    We forked http://definitelytyped.org/ and built upon their existing work and brand to speed up development/obtain increased brand recognition. Thank-you.
+    
 # TECHNOLOGY COLOPHON
 
-    TypeScript
+    Xamarin Android
+    Xamarin iOS
+    
